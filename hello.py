@@ -1,8 +1,6 @@
-first_name = "Ada"
-
-print("Hello, Drew")
+first_name = input("What is your first name? ")
 print('Hello,', first_name)
-
-
-print("Drew is learning Python")
 print(first_name, "is learning Python.")
+
+favorite_color = input("What is your favorite color? ")
+
